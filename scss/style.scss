@@ -357,9 +357,9 @@ img {
     font-size: 14px;
     line-height: 65px;
     @include transition(all 500ms);
-    background: #61ba6d;
-    background-image: -webkit-linear-gradient(left, #61ba6d 0%, #83c331 51%, #61ba6d 100%);
-    background-image: linear-gradient(to right, #61ba6d 0%, #83c331 51%, #61ba6d 100%);
+    background: #61adba;
+    background-image: -webkit-linear-gradient(left, #61bab5 0%, #3195c3 51%, #4475a3 100%);
+    background-image: linear-gradient(to right, #61bab5 0%, #3195c3 51%, #4475a3 100%);
     font-weight: 600;
     &.btn-sm {
         min-width: 110px;
@@ -542,7 +542,7 @@ img {
                 top: 0;
                 right: 0;
                 z-index: 1;
-                background-color: #83c331;
+                background-color: #3195c3;
                 content: '';
             }
         }
@@ -1006,7 +1006,7 @@ img {
                     top: 0;
                     left: 0;
                     content: '';
-                    background-color: rgba(97, 186, 109, 0.8);
+                    background-color: rgba(83, 154, 175, 0.8);
                     opacity: 0;
                     visibility: hidden;
                     @include trans-duration(500ms);
