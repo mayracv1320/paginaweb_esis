@@ -367,9 +367,9 @@ img {
     font-size: 14px;
     line-height: 65px;
     @include transition(all 500ms);
-    background: #61adba;
-    background-image: -webkit-linear-gradient(left, #61bab5 0%, #3195c3 51%, #4475a3 100%);
-    background-image: linear-gradient(to right, #61bab5 0%, #3195c3 51%, #4475a3 100%);
+    background: #477fbe;                     
+    background-image: -webkit-linear-gradient(left, #4885be 0%, #2871ad 51%, #214e92 100%);
+    background-image: linear-gradient(to right,#4885be 0%, #2871ad 51%, #214e92 100%);
     font-weight: 600;
     &.btn-sm {
         min-width: 110px;
@@ -552,7 +552,7 @@ img {
                 top: 0;
                 right: 0;
                 z-index: 1;
-                background-color: #3195c3;
+                background-color: #287092;
                 content: '';
             }
         }
@@ -962,7 +962,7 @@ img {
 /* Footer Area CSS */
 
 .main-footer-area {
-    background-color: #232323;
+    background-color: #002f5c;
     .footer-widget {
         .widget-title {
             margin-bottom: 45px;
