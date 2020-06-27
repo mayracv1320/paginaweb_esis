@@ -837,13 +837,13 @@ img {
       text-transform: uppercase; }
   .main-footer-area .footer-widget .footer-social-info a {
     display: inline-block;
-    color: #646464;
+    color: #bad2ee;
     margin-right: 15px; }
     .main-footer-area .footer-widget .footer-social-info a:hover, .main-footer-area .footer-widget .footer-social-info a:focus {
       color: #ffffff; }
   .main-footer-area .footer-widget .useful-links li a {
     display: block;
-    color: #646464;
+    color: #bad3f5;
     margin-bottom: 15px;
     font-size: 14px;
     font-weight: 500; }
@@ -877,7 +877,8 @@ img {
     margin-right: 15px;
     padding-top: 7px; }
   .main-footer-area .footer-widget .single-contact p {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    color: #8dbed4; }
 
 .bottom-footer-area {
   background-color: #141414;
